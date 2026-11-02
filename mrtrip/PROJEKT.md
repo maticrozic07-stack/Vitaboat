@@ -16,7 +16,8 @@ Bolj kot je natančna, bolj ciljane bodo ugotovitve.
 <!-- npr. React Native, web, Node.js backend, Claude API ... -->
 
 ## Konkurenti, ki jih poznam
--
+- **Tripadvisor** (glavni konkurent)
+- Podobne aplikacije: Google Maps / Google Travel, Yelp, Booking.com, Airbnb Experiences, GetYourGuide, Viator, Wanderlog, Polarsteps
 
 ## Kaj me trenutno muči / kje bi rad izboljšave
 -

@@ -16,7 +16,7 @@ Preglej tudi prejšnja poročila v `mrtrip/porocila/`, da ne ponavljaš istih ug
 Za vsako smer naredi več ločenih iskanj (WebSearch) in odpri najboljše vire (WebFetch). Išči v angleščini in slovenščini/regionalno, kjer je smiselno.
 
 1. **Kaj je popularno** – trendi v potovalnih aplikacijah in turizmu (zadnjih 6–12 mesecev), najbolj prenašane/ocenjene aplikacije v App Store / Google Play, trendi na Reddit, Product Hunt, TikTok, novice iz branže (Skift, PhocusWire, TechCrunch).
-2. **Konkurenca** – kaj delajo konkurenti (npr. TripIt, Wanderlog, Google Travel, Polarsteps, Roadtrippers, Airbnb, Booking – plus tisti iz `PROJEKT.md`): nove funkcije, cene, posodobitve.
+2. **Konkurenca** – glavni konkurent je **Tripadvisor**; spremljaj ga vedno (nove funkcije, AI načrtovalnik, ocene, posodobitve aplikacije, poslovni rezultati). Poleg njega podobne aplikacije: Google Maps/Travel, Yelp, Booking.com, Airbnb (Experiences), GetYourGuide, Viator, Wanderlog, Polarsteps, Komoot – plus tisti iz `PROJEKT.md`. Iz pritožb nad Tripadvisorjem izlušči priložnosti, kjer je MRTrip lahko boljši.
 3. **Kaj izboljšati** – pritožbe in želje uporabnikov podobnih aplikacij (ocene v trgovinah, Reddit niti, forumi). Iz njih izlušči ponavljajoče se bolečine, ki jih MRTrip lahko reši bolje.
 4. **Inovacije** – AI agenti za potovanja, personalizacija, offline/AR funkcije, trajnostni turizem, skupinsko načrtovanje, monetizacija, nove API-je in tehnologije, ki bi jih MRTrip lahko uporabil.
 
